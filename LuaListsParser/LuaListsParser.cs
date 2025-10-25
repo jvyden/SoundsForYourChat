@@ -2,6 +2,8 @@
 #:package NLua@1.7.6
 #:package System.CommandLine@2.0.0-rc.2.25502.107
 
+// dotnet run .\LuaListsParser\LuaListsParser.cs --chatsounds-path .\Modules\Metastruct\garrysmod-chatsounds\lua\chatsounds
+
 using System.Text.Json;
 using System.CommandLine;
 using NLua;
