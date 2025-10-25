@@ -1,3 +1,4 @@
 [submodule "Modules/Metastruct/garrysmod-chatsounds"]
 	path = Modules/Metastruct/garrysmod-chatsounds
 	url = https://github.com/Metastruct/garrysmod-chatsounds.git
+	shallow = true
